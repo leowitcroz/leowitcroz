@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Leonardo i'm a developer studant, currently studying CSS||HTML||JavaScript||Angular;
+
 
 <div align="center">
   <a href="https://github.com/leowitcroz">
