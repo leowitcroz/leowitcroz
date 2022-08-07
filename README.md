@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Leonardo i'm a developer student, currently studying CSS || HTML || JavaScript || Angular;
-
+For more precision go on the dashboard on the end of the page!
 
 <div align="center">
   <a href="https://github.com/leowitcroz">
