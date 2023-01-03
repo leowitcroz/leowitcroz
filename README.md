@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer student, currently studying CSS || HTML || JavaScript || Angular;<br>
+My name is Leonardo i'm a developer student, currently studying Python|| CSS || HTML || JavaScript || Angular;<br>
 For more precision go on the dashboard on the end of the page!
 
 <div align="center">
