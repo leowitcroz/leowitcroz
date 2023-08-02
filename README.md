@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer student, currently studying Python|| CSS || HTML || JavaScript || Angular;<br>
-For more precision go on the dashboard on the end of the page!
+My name is Leonardo i'm a developer focused on Vue-js, typeScript, CSS, Flutter<br>
 
 <div align="center">
   <a href="https://github.com/leowitcroz">
