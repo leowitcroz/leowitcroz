@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer focused on Vue-js, typeScript, CSS, Flutter<br>
+My name is Leonardo i'm a developer focused on Vue-js, TypeScript, Python <br>
 <div style='display:flex'>
 <picture>
   <source
