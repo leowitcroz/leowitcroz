@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer focused on Vue-js, TypeScript, Python <br>
+My name is Leonardo i'm a developer focused on Nest Js with expirience with Vue Js  <br>
 <div style='display:flex'>
 <picture>
   <source
