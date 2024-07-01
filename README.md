@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer focused on Nest Js with expirience with Vue Js  <br>
+My name is Leonardo i'm a developer and 
+physicist focused on Nest Js with expirience with Vue Js  <br>
 <div style='display:flex'>
 <picture>
   <source
