@@ -1,8 +1,6 @@
  Hi there 👋
 
 🚀 FullStack Developer & Physicist | NestJS 🌐 | VueJS 🖥️ | Quantum Computing ⚛️
-
-
 <div style='display:flex;>
 <picture>
   <source
