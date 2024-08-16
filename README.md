@@ -1,10 +1,7 @@
-### Hi there 👋
+ Hi there 👋
 
-My name is Leonardo i'm a FullStack Developer and Physicist <br>
-My current experiences are in: <br>
-<li>Nest Js 🌐</li>
-<li>Vue JS 🖥️</li>
-<li style='margin-bottom:5%'>Quantum Computing ⚛️</li>
+🚀 FullStack Developer & Physicist | NestJS 🌐 | VueJS 🖥️ | Quantum Computing ⚛️
+
 
 <div style='display:flex;>
 <picture>
