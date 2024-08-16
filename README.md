@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer and physicist <br>
+My name is Leonardo i'm a FullStack Developer and Physicist <br>
 My current experiences are in: <br>
-<li>Nest Js</li>
-<li>Vue JS</li>
-<li>Quantum Computing</li>
-<div style='display:flex'>
+<li>Nest Js 🌐</li>
+<li>Vue JS 🖥️</li>
+<li>Quantum Computing ⚛️</li>
+
+<div style='display:flex; margin-top:5%'>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leowitcroz&show_icons=true&theme=radical"
