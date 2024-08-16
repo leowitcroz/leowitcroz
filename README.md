@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-My name is Leonardo i'm a developer and 
-physicist focused on Nest Js with expirience with Vue Js  <br>
+My name is Leonardo i'm a developer and physicist <br>
+My current experiences are in: <br>
+<li>Nest Js</li>
+<li>Vue JS</li>
+<li>Quantum Computing</li>
 <div style='display:flex'>
 <picture>
   <source
