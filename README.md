@@ -1,8 +1,8 @@
 Hi I'm Leonardo Wittica Crozetta 👋
 
-FullStack Developer & Physicist 🚀 | <br>
-NestJS 🌐 | <br>
-VueJS 🖥️ | <br>
+FullStack Developer & Physicist 🚀  <br>
+NestJS 🌐  <br>
+VueJS 🖥️ <br>
 Quantum Computing ⚛️
 <div style='display:flex;>
 <picture>
