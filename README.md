@@ -1,4 +1,4 @@
- Hi there 👋
+Hi I'm Leonardo Wittica Crozetta 👋
 
 FullStack Developer & Physicist 🚀 | <br>
 NestJS 🌐 | <br>
