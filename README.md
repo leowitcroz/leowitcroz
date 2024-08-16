@@ -1,6 +1,6 @@
  Hi there 👋
 
-🚀 FullStack Developer & Physicist | <br>
+FullStack Developer & Physicist 🚀 | <br>
 NestJS 🌐 | <br>
 VueJS 🖥️ | <br>
 Quantum Computing ⚛️
